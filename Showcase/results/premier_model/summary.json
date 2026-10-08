@@ -1,0 +1,47 @@
+{
+  "num_runs": 1,
+  "datasets": {
+    "CVC-300": {
+      "dice_mean": 0.2592561860879262,
+      "dice_std": 0.0,
+      "iou_mean": 0.1660208135843277,
+      "iou_std": 0.0,
+      "runs": 1
+    },
+    "CVC-ClinicDB": {
+      "dice_mean": 0.2990969592525113,
+      "dice_std": 0.0,
+      "iou_mean": 0.19470925869480257,
+      "iou_std": 0.0,
+      "runs": 1
+    },
+    "CVC-ColonDB": {
+      "dice_mean": 0.21824364819024739,
+      "dice_std": 0.0,
+      "iou_mean": 0.1391746240226846,
+      "iou_std": 0.0,
+      "runs": 1
+    },
+    "ETIS-LaribPolypDB": {
+      "dice_mean": 0.19487013622206084,
+      "dice_std": 0.0,
+      "iou_mean": 0.12424391356049752,
+      "iou_std": 0.0,
+      "runs": 1
+    },
+    "Kvasir": {
+      "dice_mean": 0.4153681755065918,
+      "dice_std": 0.0,
+      "iou_mean": 0.2842509031295776,
+      "iou_std": 0.0,
+      "runs": 1
+    }
+  },
+  "overall": {
+    "dice_mean": 0.2773670210518675,
+    "dice_std": 0.0,
+    "iou_mean": 0.181679902598378,
+    "iou_std": 0.0,
+    "runs": 1
+  }
+}
